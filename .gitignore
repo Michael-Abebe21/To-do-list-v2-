@@ -2,7 +2,7 @@
 npm-debug.log
 .DS_Store
 /*.env
-
+app.js
 # Logs
 logs
 *.log
